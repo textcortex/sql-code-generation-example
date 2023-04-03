@@ -12,7 +12,7 @@ and faster for developers and non-technical users alike.
 
 ## Setup Guide
 
-1. Sign up for a TextCortex account [here](https://www.textcortex.ai/).
+1. Sign up for a TextCortex account [here](https://app.textcortex.com/user/dashboard).
 2. Click on the settings -> API tab to get your API key.
 3. Copy the API key and paste it into the `api_key` variable in `main.py`.
 4. Install dependencies with `pip install -r requirements.txt`.
